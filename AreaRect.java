@@ -6,3 +6,6 @@ public class AreaRect implements DemoAnonymous {
 				System.out.println("Area"+ "" +l*b);
 			}
 		}
+
+
+//comment added
