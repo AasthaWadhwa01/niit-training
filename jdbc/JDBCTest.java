@@ -208,7 +208,7 @@ public class JDBCTest {
 			}
 		}
 	}
-
+//
 	public static void myCallableStat() {
 
 	}
